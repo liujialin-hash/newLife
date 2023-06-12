@@ -11,6 +11,7 @@ public class sumOfTwoNumbers {
                 }
                 if (sums[i]+sums[j]==target){
                     is[0]=j;
+                    /*日上三竿，摇头晃脑*/
                     is[1]=i;
                 }
 
